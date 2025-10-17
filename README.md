@@ -1,39 +1,32 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# 📞 Project 3: Contact Management System
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+A Python console application built to effectively manage, store, and retrieve contact information.
 
-## Overview
+## Project Goal
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+This project emphasizes the application of **Object-Oriented Programming (OOP)** principles in Python, specifically demonstrating class design, inheritance, and encapsulation for data integrity.
 
-**💡 Foundation for Success:**
+## Functionality
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+* **Add Contact:** Creates a new contact object with attributes like name, phone, and email.
+* **View Contacts:** Displays a list of all stored contacts.
+* **Search/Retrieve:** Finds contacts based on a specified field (e.g., name).
+* **Update/Delete:** Allows modification or removal of existing contacts.
+* **Data Persistence:** Uses a basic file structure (e.g., CSV or JSON) to save data between sessions.
 
-## Featured Modules & Projects
+## Technical Stack
 
-The projects are organized into separate branches based on the core module they represent.
+* **Python:** Core language for application logic.
+* **OOP:** Classes (`Contact`, `ContactManager`) are central to the design.
+* **File I/O:** Utilized for data persistence.
 
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
+## How to Run
 
-## Skills Gained
-
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+1.  Clone the branch.
+2.  Execute the main script from your terminal:
+    ```bash
+    python contact_manager.py
+    ```
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Backend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
