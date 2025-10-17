@@ -1,39 +1,32 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# ⚛️ Frontend Fundamentals Module Projects
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+This branch contains the frontend-focused projects completed during the **Mastering the Fundamentals** phase of the Coding Temple bootcamp.
 
-## Overview
+## Highlights ⚡️
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+This module focused on creating dynamic, responsive, and user-friendly interfaces (UI/UX) for web applications.
 
-**💡 Foundation for Success:**
+* **Master HTML, CSS, and JavaScript.**
+* **Dive into advanced React frameworks and UI/UX design principles.**
+* **Build single-page applications (SPAs) using component-based architecture.**
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+## Projects in this Branch
 
-## Featured Modules & Projects
+### 1. Personal Portfolio Website
 
-The projects are organized into separate branches based on the core module they represent.
+* **Description:** A professional, responsive website to showcase my projects and skills (this repository!).
+* **Skills Demonstrated:** Responsive design principles, CSS layout techniques (Flexbox/Grid), and modern web standards.
 
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
+### 2. Budget Tracker Application
 
-## Skills Gained
+* **Description:** An application allowing users to input and categorize income and expenses to track their budget.
+* **Skills Demonstrated:** Form handling, complex state manipulation (local or global), and data visualization.
 
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+### 3. E-commerce Application (Core Project)
+
+* **Description:** A complete e-commerce frontend that consumes the backend API (developed in the other module) to display products, handle user cart state, and manage the checkout process.
+* **Key Technologies:** React, JavaScript (ES6+), HTML5, CSS/Styled Components/Tailwind.
+* **Skills Demonstrated:** State management, component lifecycle, routing, and asynchronous data fetching.
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Main Portfolio Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
