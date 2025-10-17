@@ -1,39 +1,27 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# 🌐 Project 1: Personal Portfolio Website
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+This professional portfolio website serves as a dedicated showcase for my skills, projects, and educational journey at Coding Temple.
 
-## Overview
+## Project Goal
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+The primary goal was to demonstrate mastery of modern **HTML, CSS, and Responsive Design** principles by building a visually appealing and highly accessible website from scratch.
 
-**💡 Foundation for Success:**
+## Key Features
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+* **Clean UI/UX:** Intuitive navigation and a professional design focused on readability.
+* **Fully Responsive:** Implemented using CSS Grid and Flexbox to ensure perfect scaling on any device size.
+* **Project Linking:** Clear sections dedicated to highlighting the projects contained within this repository's other branches.
+* **Accessibility (A11y):** Focus on semantic HTML and appropriate ARIA roles.
 
-## Featured Modules & Projects
+## Technical Stack
 
-The projects are organized into separate branches based on the core module they represent.
+* **HTML5:** Semantic structure and organization of content.
+* **CSS3:** Advanced layout techniques (Flexbox & Grid), transitions, and keyframe animations.
+* **JavaScript:** Minor interactivity (e.g., mobile navigation toggle, scroll effects).
 
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
+## Viewing the Project
 
-## Skills Gained
-
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+This is a static site. You can view the live deployment [HERE](YOUR_LIVE_DEMO_LINK) or open the `index.html` file in your browser after cloning the branch.
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Frontend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
