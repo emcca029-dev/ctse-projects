@@ -18,16 +18,10 @@ The projects are organized into separate branches based on the core module they 
 | Module Branch | Focus | Key Projects |
 | :--- | :--- | :--- |
 | **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-
-
 | **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
 | **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
 | **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-
-
-
 | **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-
 | **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
 | **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
 | **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
