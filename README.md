@@ -1,39 +1,44 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# 🛒 Project 3: Full-Stack E-commerce Application (Frontend)
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+This is the frontend client for a multi-page e-commerce platform, built as a core project in the Coding Temple Full-Stack curriculum.
 
-## Overview
+## Project Overview
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+This application focuses on delivering a smooth, responsive shopping experience. It interacts asynchronously with the custom-built **E-commerce API** (located in the `project-1-e-commerce-api` branch) to manage products, user accounts, and cart state.
 
-**💡 Foundation for Success:**
+## Key Features
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+* **Product Catalog:** Displays products fetched from the backend API with filtering and search capabilities.
+* **User Authentication:** Handles sign-up and log-in, managing user state via tokens/session.
+* **Shopping Cart:** Allows users to add, update quantities, and remove items before checkout.
+* **Responsive Design:** Optimized for seamless viewing and interaction across desktop, tablet, and mobile devices.
 
-## Featured Modules & Projects
+## Technical Stack
 
-The projects are organized into separate branches based on the core module they represent.
-
-| Module Branch | Focus | Key Projects |
+| Category | Technology | Purpose |
 | :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
+| **Framework** | **React** | Component-based UI architecture and state management. |
+| **Language** | **JavaScript (ES6+)** | Core application logic and DOM manipulation. |
+| **Styling** | **[CSS/Styled-Components/Tailwind]** | Modular, maintainable styling and UI theming. |
+| **API Integration** | **Axios / Fetch** | Asynchronous requests (GET, POST, PUT, DELETE) to the backend. |
+| **Routing** | **React Router DOM** | Client-side navigation without full page reloads. |
 
-## Skills Gained
+## Installation & Setup
 
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+1.  Clone this repository's branch:
+    ```bash
+    git clone -b project-1-ecommerce-application YOUR_REPO_URL
+    cd YOUR_REPO_NAME
+    ```
+2.  Install dependencies:
+    ```bash
+    npm install
+    ```
+3.  Ensure the E-commerce API is running locally (refer to its README).
+4.  Run the application:
+    ```bash
+    npm start
+    ```
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Frontend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
