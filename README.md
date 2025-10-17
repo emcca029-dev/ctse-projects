@@ -1,39 +1,24 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# 💰 Project 3: Budget Tracker Application
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+A single-page application (SPA) designed to help users track their income and expenses, providing a visual overview of their personal finances.
 
-## Overview
+## Project Scope
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+This project was critical for solidifying **complex state management** and **dynamic list rendering** in React. It manages transaction data locally (e.g., using browser storage or simple JS arrays) without requiring a dedicated backend.
 
-**💡 Foundation for Success:**
+## Key Features
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+* **Transaction Input:** Users can submit income or expense transactions with category and amount.
+* **Real-time Calculations:** Automatically calculates the current balance and provides a breakdown of total income vs. expenses.
+* **Data Visualization:** Simple display (e.g., a list or bar chart) to categorize spending.
+* **Data Persistence:** Data is retained even after the page is closed (using local storage).
 
-## Featured Modules & Projects
+## Technical Stack
 
-The projects are organized into separate branches based on the core module they represent.
-
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
-
-## Skills Gained
-
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+* **React:** Used for component architecture and managing the application's overall state.
+* **useState/useReducer:** Core hooks utilized for efficient state handling.
+* **JavaScript:** Logic for calculations, filtering, and data sorting.
+* **Local Storage:** Used for basic data persistence between sessions.
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Frontend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
