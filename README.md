@@ -1,4 +1,4 @@
-# 💰 Project 3: Budget Tracker Application
+# 💰 Project 2: Budget Tracker Application
 
 A single-page application (SPA) designed to help users track their income and expenses, providing a visual overview of their personal finances.
 
