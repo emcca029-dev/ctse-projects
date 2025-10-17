@@ -1,24 +1,33 @@
-# 💰 Project 2: Budget Tracker Application
+# 🐍 Backend Fundamentals Module Projects
 
-A single-page application (SPA) designed to help users track their income and expenses, providing a visual overview of their personal finances.
+This branch contains the backend-focused projects completed during the **Mastering the Fundamentals** phase of the Coding Temple bootcamp.
 
-## Project Scope
+## Highlights ⚡️
 
-This project was critical for solidifying **complex state management** and **dynamic list rendering** in React. It manages transaction data locally (e.g., using browser storage or simple JS arrays) without requiring a dedicated backend.
+My work in this module was centered on building scalable logic and effective database management systems.
 
-## Key Features
+* **Learn Python syntax and object-oriented programming (OOP).**
+* **Manage databases and create scalable systems.**
+* **Develop RESTful APIs for applications.**
 
-* **Transaction Input:** Users can submit income or expense transactions with category and amount.
-* **Real-time Calculations:** Automatically calculates the current balance and provides a breakdown of total income vs. expenses.
-* **Data Visualization:** Simple display (e.g., a list or bar chart) to categorize spending.
-* **Data Persistence:** Data is retained even after the page is closed (using local storage).
+## Projects in this Branch
 
-## Technical Stack
+### 1. To-Do List Application
 
-* **React:** Used for component architecture and managing the application's overall state.
-* **useState/useReducer:** Core hooks utilized for efficient state handling.
-* **JavaScript:** Logic for calculations, filtering, and data sorting.
-* **Local Storage:** Used for basic data persistence between sessions.
+* **Description:** A foundational project focusing on the core principles of application logic and state management.
+* **Skills Demonstrated:** Basic input/output handling, function design, and core Python scripting abilities.
+
+### 2. E-commerce API (Core Project)
+
+* **Description:** A robust API built to manage product data, user authentication, and inventory for an e-commerce platform.
+* **Key Technologies:** Python, chosen Database (e.g., PostgreSQL/SQLite), API Framework (e.g., Flask/Django).
+* **Skills Demonstrated:** Data modeling, CRUD operations, authentication (e.g., JWT), and testing API endpoints.
+
+### 3. Contact Management System
+
+* **Description:** A system designed to efficiently store, retrieve, update, and delete contact information.
+* **Skills Demonstrated:** Effective use of data structures and object-oriented principles to manage data persistence.
+
 
 ---
-**[← Back to Frontend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
+**[← Back to Main Portfolio Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
