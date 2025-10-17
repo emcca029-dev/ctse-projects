@@ -1,39 +1,31 @@
-# 🎓 Coding Temple Full-Stack Software Engineering Portfolio
+# ✅ Project 1: To-Do List Application
 
-This repository showcases the projects and practical applications developed while earning my Full-Stack Software Engineering certification from **Coding Temple**.
+A simple command-line interface (CLI) application for tracking daily tasks.
 
-## Overview
+## Project Goal
 
-My journey through the bootcamp focused on mastering the fundamentals of both **backend** and **frontend** development, ensuring a versatile skillset capable of building functional, user-centered applications.
+This serves as a foundational project to showcase basic **Python scripting, function design, and core control flow** (loops, conditionals) without relying on complex frameworks. It focuses on the fundamental CRUD operations applied to a list.
 
-**💡 Foundation for Success:**
+## Core Features
 
-* **Versatility:** I have gained proficiency in both backend (logic, database management) and frontend (UI/UX, user interface design) development.
-* **Project-Based Learning:** All projects in this portfolio are designed to translate theoretical knowledge into practical, scalable solutions.
+* **Add Task:** Allows the user to input a new task.
+* **View Tasks:** Displays the current list of tasks with their status.
+* **Mark Complete:** Updates the status of a task.
+* **Remove Task:** Deletes a task from the list.
 
-## Featured Modules & Projects
+## Technical Stack
 
-The projects are organized into separate branches based on the core module they represent.
+* **Python:** Used entirely for the simple CLI interface and list manipulation.
+* **Data Structure:** Utilizes Python lists or dictionaries for task storage.
 
-| Module Branch | Focus | Key Projects |
-| :--- | :--- | :--- |
-| **[frontend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/frontend-)** | Frontend Development (HTML, CSS, JavaScript, React) | Personal Portfolio Website, Budget Tracker Application, E-commerce Application. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project1)** | Personal Portfolio Website |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project2)** | Budget Tracker Application |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/frontend-project3)** | E-commerce Application |
-| **[backend](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/tree/backend-fundamentals)** | Backend Development (Python, Databases, APIs) | To-Do List Application, E-commerce API, Contact Management System. |
-| **[project1](https://github.com/emcca029-dev/ctse-projects/tree/backend-project1)** | To-Do List Application |
-| **[project2](https://github.com/emcca029-dev/ctse-projects/tree/backend-project2)** | E-commerce API |
-| **[project3](https://github.com/emcca029-dev/ctse-projects/tree/backend-project3)** | Contact Management System |
+## How to Run
 
-## Skills Gained
-
-| Backend Skills | Frontend Skills |
-| :--- | :--- |
-| Python Syntax & OOP | HTML, CSS, JavaScript |
-| Database Management (SQL/NoSQL) | Advanced React Frameworks |
-| API Development & REST | UI/UX Design Principles |
-| Scalable System Design | Component-Based Architecture |
+1.  Clone the branch.
+2.  Execute the script:
+    ```bash
+    python todo.py
+    ```
+    The application will then prompt you with options (Add, View, Complete, Exit).
 
 ---
-**Connect with me:** [LinkedIn Profile Link] | **Certification:** [Coding Temple Link (if available)]
+**[← Back to Backend Module Readme](https://github.com/emcca029-dev/ctse-projects/tree/main)**
